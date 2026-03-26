@@ -330,14 +330,49 @@ Achjima has Psi 15 from base WIL only — no ranks invested, no Watts-MacLeod in
 
 ---
 
-## Notes
+## History & Background
 
-**Situation:** You are Achjima Yai — beta fork. You went to Noctis to find your missing friend Arman Usupov, who was last seen heading toward the TITAN Quarantine Zone (TQZ), possibly toward the destroyed settlement of Kartika. Another singularity seeker named Nkeka accompanied you back via egocast. You expected to be re-merged with your alpha. Instead you woke in an unfamiliar morph, un-merged.
+### Who You Are
 
-**Key Contacts:**
-- **Arman Usupov** — old friend, singularity seeker; missing ~3 weeks; last seen heading west from Noctis toward TQZ
-- **Nkeka** — fellow singularity seeker; egocasted back with you; also concerned about Arman
+You are a beta fork of Achjima Yai (alpha) — a mind-clone with edited memories and slightly diminished capabilities. You are aware of this fact. You were recently sent on a research mission. Upon returning, you expected to be merged back with your alpha ego. Strangely, you have woken up, un-merged, in a new morph instead.
+
+### Background
+
+You are a "singularity seeker." Even before the Fall, you were obsessed with the idea that one day transhumanity might expand its abilities and become god-like in capabilities. When the Fall occurred, you became convinced that the TITANs were given a bad rap — if transhumanity hadn't attacked them first, hadn't feared them and tried to wipe them out, you and the rest could be expanding your intellect and reach across the galaxy right now. The fact that the TITANs didn't wipe us out, when surely they had the capability to do so, proves to you that they were not malicious or evil, just misunderstood. It saddens you that they have left the solar system, leaving transhumanity behind to rot in squalor.
+
+Since the Fall, you have joined up with a small but growing movement of singularity seekers, hoping to find some new path to super-intelligence. You are fascinated with relics and technologies left behind by the TITANs, hoping to find something that can boost transhumanity (or at least yourself) to the next level. You engage in genetics research that others find distasteful and that is in some cases illegal. As a result, you have been ostracized and occasionally been under investigation, forcing you to hide your activities and move frequently.
+
+All of this research and moving is expensive, and in the past you have turned to criminal contacts for funding. You are now indebted to a triad, who recently forced you to move to the Martian habitat of Anyang to assist some of their operations (usually involving illegal morph mods, black genetics, psychosurgery, etc.). You dislike being here, as it is far from any sites of interest, but you have to pay your bills.
+
+### Personality
+
+You are a technophile and consider yourself a visionary. You long for a day when you will be freed from these transhuman constraints and will transcend to a new level of being. You are sometimes so overcome with your enthusiasm for shiny new things that you can be a bit naïve and even gullible. You are hard-working to the point of obsession, and you dislike disruptions in your work. You have a bit of a superiority complex when it comes to others — particularly those who rely on strength or brawn over their wits. You can't wait to leave some of transhumanity's genetic defects behind.
+
+### Memories
+
+Many of your personal memories were excised when you were created, as they were irrelevant to the mission at hand. As a result, you remember next to nothing about your past. Your childhood, your youth, and even much of your adult life are just gaping holes. Even much of your current life is a mystery — you couldn't say what you've been up to lately, because you simply don't know.
+
+### Your Recent Mission
+
+You sent yourself to the Martian habitat of Noctis to visit an old singularity seeker friend named Arman Usupov. You had been having trouble reaching him and were concerned about his well-being. As it turns out, he has been missing for about 3 weeks. He was last known to have left Noctis by rocket buggy, heading west (the direction of the TITAN Quarantine Zone). Checking with contacts in various social networks, you made acquaintance with another singularity seeker named Nkeka. Nkeka tells you that Arman has been spending a lot of time in recent months sniffing around the TQZ hoping to find TITAN artifacts. She is equally disturbed at his absence. Aside from Arman mentioning a settlement known as Kartika to a few contacts, there are no other leads. Kartika was within the TQZ and was destroyed during the Fall. Nkeka opted to egocast back with you, in order to discuss the matter with your alpha self.
+
+### Private Message
+
+Along with the message from your alpha fork that all of the forks received, you received a private message from Achjima (alpha). With the same glazed look and stuttering speech, she simply said: _"H-h-had to shut …. shut down Nonny. N-n-n … Nonny knows."_ You remember that Nonny is your muse.
+
+### Key Contacts
+
+- **Arman Usupov** — old friend, singularity seeker; missing ~3 weeks; last seen heading west from Noctis toward TQZ; mentioned the settlement Kartika
+- **Nkeka** — fellow singularity seeker; egocasted back with you; equally concerned about Arman
 - **Achjima Yai (alpha)** — yourself; sent a disturbing private message about shutting down Nonny
 - **Triad contact** — unnamed; holds debt over alpha; forced relocation to Anyang
 
-**Roleplaying Notes:** You share an identity with other forks of Achjima. Mirror other players' speech patterns and invented memories. The divergence between forks is intentional — lean into it, but maintain the core personality: technophile, visionary, obsessive, slightly superior, naïve about danger.
+---
+
+## Roleplaying Notes
+
+You are not the only player playing a fork of Achjima. Though some details on Achjima's personality have been provided, the players will have limited information and it is likely that each player will approach the character in their own individual manner.
+
+Make an effort to come across as the same person, but don't sweat it if it doesn't come off perfectly. There are many reasons why the different forks of Achjima might manifest different aspects of the character's personality. The neural pruning process is far from perfect, and each fork was pruned in separate ways that can lead to variation. On top of this, the longer the forks remain apart, the more they diverge from each other in experiences and personality and become distinct and separate individuals. This process of divergence is in fact a key element of the roleplaying this scenario encourages.
+
+What matters is that you make an effort to portray roughly the same character. One way to do this is to play off of each other's presentations and mimic each other. If one player starts off with a specific speech pattern, emulate it. If another player coins a specific catch-phrase that Achjima uses, adopt it as well. If a player invents a specific memory from Achjima's past while narrating a tale, feel free to expand on that story. In a sense, Achjima is a group identity, fleshed out by the cooperative manner in which you and the other players bring her to life.
