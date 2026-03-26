@@ -322,6 +322,14 @@ _g-rep is high due to triad debt/entanglement. r-rep reflects her scientific rep
 
 ---
 
+## Psi
+
+**Not an async.** Psi Trait Level: 0 / Infection Rating: 0 / No sleights.
+
+Achjima has Psi 15 from base WIL only — no ranks invested, no Watts-MacLeod infection.
+
+---
+
 ## Notes
 
 **Situation:** You are Achjima Yai — beta fork. You went to Noctis to find your missing friend Arman Usupov, who was last seen heading toward the TITAN Quarantine Zone (TQZ), possibly toward the destroyed settlement of Kartika. Another singularity seeker named Nkeka accompanied you back via egocast. You expected to be re-merged with your alpha. Instead you woke in an unfamiliar morph, un-merged.
